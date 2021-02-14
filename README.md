@@ -4,10 +4,10 @@ Creation d'un tableau de bord avec Power BI - La Gestion des Accidents en France
 ## ProjetBI.pbix : Le Ficher du Power BI
 
 # First Page -> Zoomer la Carte du France et selectionner un Couleur pour la Description 
-![](1.PNG)
+![](Capture1.PNG)
 
 # Seconde Page
-![](2.PNG)
+![](Image2.png)
 
 # Logo
 ![](Logo.PNG)
